@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>ホーム</title>
+</head>
+<body>
+    <header>
+        <h1>ようこそ！</h1>
+        <nav>
+            <ul>
+                <li><a href="login.php">ログイン</a></li>
+                <li><a href="register.php">新規登録</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <h2>ホームページのコンテンツ</h2>
+        <p>ここにホームページの内容を追加します。</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 YourWebsite</p>
+    </footer>
+</body>
+</html>
